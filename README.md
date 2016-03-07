@@ -1,2 +1,1 @@
-# SendigOS
-Sendigos
+# SendigOS İşletim Sistemi |
