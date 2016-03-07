@@ -1,1 +1,0 @@
-# SendigOS İşletim Sistemi |
